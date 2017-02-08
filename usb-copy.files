@@ -1,0 +1,35 @@
+######################################
+## TIPO DE ARCHIVOS QUE SE COPIARAN ##
+######################################
+
+###################
+## En Minúsculas ##
+###################
+*.conf
+*.csv
+*.doc
+*.docx
+*.log
+*.ods
+*.odt
+*.pdf
+*.ppt
+*.txt
+*.xls
+*.xlsx
+
+###################
+## En Mayúsculas ##
+###################
+*.CONF
+*.CSV
+*.DOC
+*.DOCX
+*.LOG
+*.ODS
+*.ODT
+*.PDF
+*.PPT
+*.TXT
+*.XLS
+*.XLSX
